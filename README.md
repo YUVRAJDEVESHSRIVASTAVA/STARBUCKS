@@ -4,6 +4,21 @@ A responsive Starbucks-inspired landing page built with pure HTML, CSS, and Java
 
 This project showcases a modern single-page design with a hero section, product cards, delivery/app sections, and a mobile-friendly navigation menu.
 
+## About This Project
+
+This repository is a frontend showcase project focused on recreating the look and feel of a modern Starbucks-style landing page.
+It highlights practical UI skills such as responsive layout design, visual hierarchy, reusable section styling, and basic interactive behavior using vanilla JavaScript.
+
+Built as a portfolio-ready project, it demonstrates how to deliver a clean brand-inspired interface without external frameworks.
+
+## Showcase Highlights
+
+- Pixel-inspired brand UI recreation
+- Responsive design across desktop, tablet, and mobile
+- Smooth one-page section flow and navigation
+- Reusable card and section patterns
+- Beginner-friendly codebase using core web technologies
+
 ## Preview
 
 - Brand-style landing page UI
@@ -30,30 +45,29 @@ This project showcases a modern single-page design with a hero section, product 
 ## Project Structure
 
 ```text
-STARBUCKS-main/
+.
 |-- README.md
-|-- Starbucks/
-|   |-- index.html
-|   |-- style.css
-|   |-- main.js
-|   `-- img/
+|-- index.html
+|-- style.css
+|-- main.js
+|-- img/
 `-- Yuvraj/
-	`-- Starbucks/
-		|-- index.html
-		|-- style.css
-		|-- main.js
-		`-- img/
+    `-- Starbucks/
+        |-- index.html
+        |-- style.css
+        |-- main.js
+        `-- img/
 ```
 
 ## How To Run Locally
 
 1. Clone or download this repository.
 2. Open the folder in VS Code.
-3. Open `Starbucks/index.html` in your browser.
+3. Open `index.html` in your browser.
 
 Quick option in VS Code:
 - Install the **Live Server** extension.
-- Right-click `Starbucks/index.html` and select **Open with Live Server**.
+- Right-click `index.html` and select **Open with Live Server**.
 
 ## Notes
 
